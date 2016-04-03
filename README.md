@@ -5,7 +5,7 @@
 
 **Click on the .crx file:**
 <br>
-<img src="https://github.com/nisargnp/QuickRead/blob/master/Screenshots/select_download.png">
+<img src="https://github.com/nisargnp/QuickRead/blob/master/Screenshots/select_download.png" hspace="20">
 <br>
 
 **Click on "View Raw" to download:**
