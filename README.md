@@ -1,5 +1,5 @@
 # QuickRead
-Generate Article Summaries - CapitalOne Challange 2016 - Nisarg Patel
+**Generate Article Summaries - CapitalOne Challange 2016 - Nisarg Patel**
 
 ## Download
 
