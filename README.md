@@ -1,5 +1,5 @@
 # QuickRead
-**Generate Article Summaries - CapitalOne Challange 2016 - Nisarg Patel**
+**Chrome Extension to Generate Article Summaries - CapitalOne Challange Spring 2016 - Nisarg Patel**
 
 ## Download
 
