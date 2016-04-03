@@ -4,6 +4,7 @@ Generate Article Summaries - CapitalOne Challange 2016 - Nisarg Patel
 ## Download
 
 Click on the .crx file.
+<img src="https://github.com/nisargnp/QuickRead/blob/master/Screenshots/select_download.png">
 
 Click on "View Raw" to download.
 
